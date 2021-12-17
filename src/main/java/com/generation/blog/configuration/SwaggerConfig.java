@@ -20,7 +20,7 @@ public class SwaggerConfig {
         return new OpenAPI()
             .info(new Info()
                 .title("Inferno")
-                .description("Projecto Blog Pessoal - Generation Brasil")
+                .description("Inferno Arystal")
                 .version("v0.0.1")
             .license(new License()
                 .name("Generation Brasil")
